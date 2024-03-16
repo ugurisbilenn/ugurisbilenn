@@ -45,6 +45,56 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 </div>
 
+# Github Stats
+
+ <br />
+ 
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" >
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ugurisbilenn&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Ugurisbilenn" />
+    <img heigth="160" width="182" >
+  </a>
+</p>
+
+  
+<br />
+
+
+ 
+ <p align="center">
+  <a>
+    <img heigth="160" width="182" >
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ugurisbilenn&theme=material-palenight&hide_border=false" alt="Ugurisbilenn" width="55%" />
+    <img heigth="160" width="182" >
+  </a>
+</p>
+ 
+
+ 
+ <br />
+ 
+  
+  
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ugurisbilenn&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ugurisbilenn" />
+    <img heigth="160" width="182" >
+  </a>
+</p>
+ 
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/Ugurisbilenn/github-readme-stats)
+-->
+
+
+![](https://github-profile-trophy.vercel.app/?username=Ugurisbilenn&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+<br />
+
 
 <!--
 **ugurisbilenn/ugurisbilenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
